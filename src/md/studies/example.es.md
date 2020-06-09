@@ -1,0 +1,1 @@
+Archivo MD para estudio 'example'

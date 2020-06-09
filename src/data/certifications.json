@@ -1,3 +1,184 @@
 [
-  
+  {
+    "id": "1",
+    "badge": "placeholder.jpg",
+    "title": [
+      {
+        "locale": "en",
+        "text": "Example Certification in English"
+      },
+      {
+        "locale": "es",
+        "text": "Certificacion de Ejemplo en Español"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Certificacion Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Certificacion."
+      }
+    ],
+    "date": {
+      "month": 6,
+      "year": 2020
+    },
+    "page": "example",
+    "url": "https://www.example.com",
+    "certificationImg": "placeholder.png",
+    "certificationUrl": "https://www.example.com",
+    "organization": {
+      "name": "Example",
+      "url": "https://www.example.com",
+	  "logo": "placeholder.jpg"
+    },
+    "courses": [
+      {
+        "id": "1",
+        "badge": "placeholder.jpg",
+        "title": [
+          {
+            "locale": "en",
+            "text": "Course of Certification Example"
+          },
+          {
+            "locale": "es",
+            "text": "Curso de Certificacion de Ejemplo"
+          }
+        ],
+        "description": [
+          {
+            "locale": "en",
+            "text": "Course Description."
+          },
+          {
+            "locale": "es",
+            "text": "Descripción de Curso."
+          }
+        ],
+        "date": {
+          "month": 6,
+          "year": 2020
+        },
+        "url": "https://example.com"
+      }
+    ]
+  },
+    {
+    "id": "2",
+    "badge": "placeholder.jpg",
+    "title": [
+      {
+        "locale": "en",
+        "text": "Example Certification in English 2"
+      },
+      {
+        "locale": "es",
+        "text": "Certificacion de Ejemplo en Español 2"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Certificacion Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Certificacion."
+      }
+    ],
+    "date": {
+      "month": 6,
+      "year": 2020
+    },
+    "page": null,
+    "url": "https://www.example.com",
+    "certificationImg": "placeholder.png",
+    "certificationUrl": "https://www.example.com",
+    "organization": {
+      "name": "Example",
+      "url": "https://www.example.com",
+	  "logo": "placeholder.jpg"
+    },
+    "courses": []
+  },
+    {
+    "id": "3",
+    "badge": "placeholder.jpg",
+    "title": [
+      {
+        "locale": "en",
+        "text": "Example Certification in English 3"
+      },
+      {
+        "locale": "es",
+        "text": "Certificacion de Ejemplo en Español 3"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Certificacion Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Certificacion."
+      }
+    ],
+    "date": {
+      "month": 6,
+      "year": 2020
+    },
+    "page": null,
+    "url": "https://www.example.com",
+    "certificationImg": "placeholder.png",
+    "certificationUrl": "https://www.example.com",
+    "organization": {
+      "name": "Example",
+      "url": "https://www.example.com",
+	  "logo": "placeholder.jpg"
+    },
+    "courses": []
+  },
+    {
+    "id": "4",
+    "badge": "placeholder.jpg",
+    "title": [
+      {
+        "locale": "en",
+        "text": "Example Certification in English 4"
+      },
+      {
+        "locale": "es",
+        "text": "Certificacion de Ejemplo en Español 4"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Certificacion Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Certificacion."
+      }
+    ],
+    "date": {
+      "month": 6,
+      "year": 2020
+    },
+    "page": null,
+    "url": "https://www.example.com",
+    "certificationImg": "placeholder.png",
+    "certificationUrl": "https://www.example.com",
+    "organization": {
+      "name": "Example",
+      "url": "https://www.example.com",
+	  "logo": "placeholder.jpg"
+    },
+    "courses": []
+  }
 ]

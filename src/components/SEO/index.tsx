@@ -10,7 +10,7 @@ type Props = {
 }
 
 const query = graphql`
-  query SEO {
+  {
     site {
       siteMetadata {
         defaultTitle
@@ -24,18 +24,18 @@ const query = graphql`
   }
 `;
 
-const SEO: React.FunctionComponent = ({
+const SEO: React.FunctionComponent<Props> = ({
   title, description, image, children,
 }: Props) => {
-  const { site } = useStaticQuery(query);
+  const { site: { siteMetadata: siteInfo } } = useStaticQuery(query);
 
   const seo = {
-    title: title || site.defaultTitle,
-    titleTemplate: site.titleTemplate,
-    description: description || site.defaultDescription,
-    image: image || site.defaultImage,
-    url: site.url,
-    twitterUsername: site.twitterUsername,
+    title: title || siteInfo.defaultTitle,
+    titleTemplate: siteInfo.titleTemplate,
+    description: description || siteInfo.defaultDescription,
+    image: image || siteInfo.defaultImage,
+    url: siteInfo.url,
+    twitterUsername: siteInfo.twitterUsername,
   };
 
   return (

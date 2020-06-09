@@ -1,0 +1,39 @@
+{
+  "name": "John",
+  "lastName": "Doe",
+  "mainPage": "https://www.example.com",
+  "jobTitle": [
+    {
+      "locale": "en",
+      "text": "Fullstack Developer"
+    },
+    {
+      "locale": "es",
+      "text": "Desarrollador Fullstack"
+    }
+  ],
+  "age": 19,
+  "address": "Buenos Aires, Argentina",
+  "email": "example@example.com",
+  "phone": "+54 11 0000-0000",
+  "about": [
+    {
+      "locale": "en",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus rutrum finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum sed quam augue. Vivamus quis mi vitae ex bibendum ullamcorper eu et libero. Nunc eget sapien pretium, pulvinar elit a, gravida augue. Nullam ornare euismod tortor vitae pellentesque. Quisque facilisis ut sem in feugiat. Phasellus vitae nibh sit amet sapien faucibus euismod eget a sem. Nulla vestibulum orci et sapien mattis, nec pretium ipsum viverra."
+    },
+    {
+      "locale": "es",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus rutrum finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum sed quam augue. Vivamus quis mi vitae ex bibendum ullamcorper eu et libero. Nunc eget sapien pretium, pulvinar elit a, gravida augue. Nullam ornare euismod tortor vitae pellentesque. Quisque facilisis ut sem in feugiat. Phasellus vitae nibh sit amet sapien faucibus euismod eget a sem. Nulla vestibulum orci et sapien mattis, nec pretium ipsum viverra."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "level": "C2 / Native"
+    },
+    {
+      "language": "English",
+      "level": "A2"
+    }
+  ]
+}

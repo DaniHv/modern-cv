@@ -1,3 +1,74 @@
 [
-  
+  {
+    "title": [
+      {
+        "locale": "en",
+        "text": "My Degree"
+      },
+      {
+        "locale": "es",
+        "text": "My Degree"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Study Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Estudio."
+      }
+    ],
+    "institution": {
+      "name": "Example University",
+      "logo": "placeholder.jpg",
+      "url": "http://www.example.com/"
+    },
+    "period": {
+      "since": {
+        "month": 6,
+        "year": 2020
+      },
+      "until": null
+    },
+    "page": "example"
+  },
+  {
+    "title": [
+      {
+        "locale": "en",
+        "text": "My Doctorate"
+      },
+      {
+        "locale": "es",
+        "text": "My Doctorate"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Study Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Estudio."
+      }
+    ],
+    "institution": {
+      "name": "Example University",
+      "logo": "placeholder.jpg",
+      "url": "http://www.example.com/"
+    },
+    "period": {
+      "since": {
+        "month": 1,
+        "year": 2020
+      },
+      "until": {
+        "month": 5,
+        "year": 2020
+      }
+    }
+  }
 ]

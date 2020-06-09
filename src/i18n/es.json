@@ -1,10 +1,32 @@
 {
-  "name": "Nombree",
-  "birthday": "Cumpleaños",
-  "about": "Acerca de",
-  "contact": "Contacto",
+  "personalInfo": "Información Personal",
+  "name": "Name",
+  "jobTitle": "Especialidad",
+  "age": "Edad",
+  "contactInfo": "Información de Contacto",
   "address": "Dirección",
-  "email": "Email",
+  "years": "Años",
   "phone": "Teléfono",
-  "certifications": "Certificaciones"
+  "email": "Email",
+  "links": "Links",
+  "languages": "Idiomas",
+
+  "mainPage": "Página Principal",
+  "goBack": "Atrás",
+  "seeMore": "Ver Más",
+  "present": "Actualidad",
+  "seeCertificate": "Ver Certificado",
+  "seeProgram": "Ver Programa",
+
+  "aboutMe": "Acerca de Mi",
+  "certifications": "Certificaciones • Cursos",
+  "course": "Curso",
+  "courses": "Cursos",
+  "jobs": "Trabajos • Experiencia Laboral",
+  "knowledges": "Conocimientos • Tecnologías",
+  "certificate": "Certificado",
+  "studies": "Estudios • Grados",
+
+  "developedBy": "Desarrollado por",
+  "getSourceCode": "Obtener Código Fuente"
 }

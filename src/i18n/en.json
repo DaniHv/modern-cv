@@ -1,10 +1,33 @@
 {
+  "personalInfo": "Personal Info",
   "name": "Name",
+  "jobTitle": "Job Title",
   "birthday": "Birthday",
-  "about": "About Me",
-  "contact": "Contact",
+  "contactInfo": "Contact Info",
   "address": "Address",
-  "email": "Email",
+  "age": "Age",
+  "years": "Years",
   "phone": "Phone",
-  "certifications": "Certifications"
+  "email": "Email",
+  "links": "Links",
+  "languages": "Languages",
+
+  "mainPage": "Main Page",
+  "goBack": "Go Back",
+  "seeMore": "See More",
+  "present": "Present",
+  "seeCertificate": "See Certificate",
+  "seeProgram": "See Program",
+
+  "aboutMe": "About Me",
+  "certifications": "Certifications • Courses",
+  "course": "Course",
+  "courses": "Courses",
+  "jobs": "Jobs • Laboral Experience ",
+  "knowledges": "Knowledges • Technologies",
+  "certificate": "Certificate",
+  "studies": "Studies • Degrees",
+
+  "developedBy": "Developed by",
+  "getSourceCode": "Get Source Code"
 }

@@ -2,20 +2,37 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    defaultTitle: '',
-    titleTemplate: '',
+    defaultTitle: 'Jonh Doe CV',
+    titleTemplate: '%s - John Doe CV',
     defaultDescription: '',
     defaultImage: '',
-    url: '',
-    twitterUsername: '',
+    url: 'https://www.example.com',
+    twitterUsername: 'example',
   },
   plugins: [
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     'gatsby-transformer-json',
+    'gatsby-transformer-remark',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'images',
+        path: path.join(__dirname, 'src', 'images'),
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'data',
         path: path.join(__dirname, 'src', 'data'),
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'md',
+        path: path.join(__dirname, 'src', 'md'),
       },
     },
     {

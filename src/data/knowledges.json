@@ -1,0 +1,92 @@
+[
+  {
+    "priority": 5,
+    "name": "HTML5",
+    "percent": 90
+  },
+  {
+    "priority": 5,
+    "name": "CSS3",
+    "percent": 85
+  },
+  {
+    "priority": 1,
+    "name": "JavaScript",
+    "percent": 75
+  },
+  {
+    "priority": 1,
+    "name": "React.js",
+    "percent": 75
+  },
+  {
+    "priority": 2,
+    "name": "React Native",
+    "percent": 55
+  },
+  {
+    "priority": 5,
+    "name": "Sass",
+    "percent": 65
+  },
+  {
+    "priority": 1,
+    "name": "Next.js",
+    "percent": 75
+  },
+  {
+    "priority": 3,
+    "name": "Gatsby.js",
+    "percent": 60
+  },
+  {
+    "priority": 4,
+    "name": "Python",
+    "percent": 65
+  },
+  {
+    "priority": 2,
+    "name": "PHP",
+    "percent": 80
+  },
+  {
+    "priority": 2,
+    "name": "Laravel",
+    "percent": 80
+  },
+  {
+    "priority": 4,
+    "name": "Wordpress",
+    "percent": 65
+  },
+  {
+    "priority": 4,
+    "name": "Node.js",
+    "percent": 60
+  },
+  {
+    "priority": 3,
+    "name": "Restful API",
+    "percent": 80
+  },
+  {
+    "priority": 3,
+    "name": "GraphQL API",
+    "percent": 55
+  },
+  {
+    "priority": 6,
+    "name": "Photoshop",
+    "percent": 35
+  },
+  {
+    "priority": 6,
+    "name": "Linux / Bash",
+    "percent": 50
+  },
+  {
+    "priority": 6,
+    "name": "Git / GitHub",
+    "percent": 50
+  }
+]

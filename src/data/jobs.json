@@ -1,3 +1,74 @@
 [
-  
+  {
+    "title": [
+      {
+        "locale": "en",
+        "text": "Fullstack Developer"
+      },
+      {
+        "locale": "es",
+        "text": "Desarrollador Fullstack"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Job Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Trabajo."
+      }
+    ],
+    "organization": {
+      "name": "Example",
+      "url": "https://www.example.com/",
+      "logo": "placeholder.jpg"
+    },
+    "period": {
+      "since": {
+        "month": 6,
+        "year": 2020
+      },
+      "until": null
+    },
+    "page": "example"
+  },
+  {
+    "title": [
+      {
+        "locale": "en",
+        "text": "My Old Job"
+      },
+      {
+        "locale": "es",
+        "text": "Mi Antiguo Trabajo"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en",
+        "text": "Job Description."
+      },
+      {
+        "locale": "es",
+        "text": "Descripción de Trabajo."
+      }
+    ],
+    "organization": {
+      "name": "Example",
+      "url": "https://www.example.com/",
+      "logo": "placeholder.jpg"
+    },
+    "period": {
+      "since": {
+        "month": 11,
+        "year": 2019
+      },
+      "until": {
+        "month": 5,
+        "year": 2020
+      }
+    }
+  }
 ]
