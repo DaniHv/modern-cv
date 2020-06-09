@@ -1,8 +1,9 @@
 # Modern CV Made With React.js and Gatsby.js
 
-<span style="display:block;text-align:center">![Modern CV Demo](./screenshot.png?raw=true)</span>
-
 This is a complete modern web version of a traditional cv with a lot of features to make it more informative, with complete details about yourself, your jobs, studies, certifications, knowledges and skills, made in a visually atractive way with images, subpages, dropdowns, links and more. Everything without the use of APIs, and can be served statically (and free) with platforms like Vercel.
+
+<p align="center"><img src="./screenshot.png?raw=true"></p>
+
 
 ## Features and Functioning
 
