@@ -37,7 +37,7 @@ export const PageBody = styled.section`
 `;
 
 export const Grid = styled.section`
-  @media screen and (min-width: 900px) {
+  @media (min-width: 900px) {
     display: grid;
     grid-template-columns: 3fr 7fr;
   }

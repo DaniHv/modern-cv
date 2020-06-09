@@ -7,7 +7,7 @@ export const Container = styled.aside`
 `;
 
 export const InfoGrid = styled.div`
-  @media screen and (min-width: 599px) and (max-width: 899px) {
+  @media (min-width: 599px) and (max-width: 899px) {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 5%;
